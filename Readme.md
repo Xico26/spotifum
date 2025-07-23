@@ -1,8 +1,8 @@
 # SpotifUM
 
 ## EN
-This is the code of a group university project made in the OOP Curricular Unit of the Informatics Engineering Course
-Most of the names in the code and all of the text outputted are in Portuguese.
+This is the code of a group university project made in the OOP Curricular Unit of the Informatics Engineering (CS) Course. 
+Most of the variable/method names in the code and all of the text outputted are in Portuguese.
 
 ## PT
 Código de um projeto de grupo realizado no âmbito da UC de POO de Engenharia Informática
